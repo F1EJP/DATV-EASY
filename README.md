@@ -1,5 +1,12 @@
-# DATV-Easy
+# DATV-Easy © F1EJP
 DATV broadcast from a PC on Windows for RADIO HAM
+
+DATV-Easy is distributed under conditions: 
+
+This software was developed for Amateur Radio experiments.
+You have the freedom to distribute copies of this free software but its comercial use is not permitted.
+This software uses libraries from the FFmpeg project media-autobuild_suite licensed under the GNU General Public License v3.0
+Due to the non commercial nature of Amateur Radio there should be no problems in it's use only for Amateur Radio.
 
 Version 1.0
 - version initiale 25/11/2021
