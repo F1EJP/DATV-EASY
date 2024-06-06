@@ -1,5 +1,5 @@
 # DATV-Easy © F1EJP
-DATV broadcast from a PC on Windows for RADIO HAM
+DATV broadcast from a PC on Windows for RADIO AMATEUR
 
 DATV-Easy is distributed under conditions: 
 
